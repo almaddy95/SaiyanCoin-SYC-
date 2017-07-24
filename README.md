@@ -1,0 +1,2 @@
+# SaiyanCoin-SYC-
+SaiyanCoin Wallet 
